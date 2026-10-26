@@ -1,0 +1,39 @@
+# RePlated - Git ignore rules for AIESEC Hackathon project
+
+# Environment files (contain secrets)
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+node_modules-repair-backup/
+package-lock-repair-backup.json
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# Build artifacts
+*.tsbuildinfo
+
+# Supabase local development (if used)
+.supabase/

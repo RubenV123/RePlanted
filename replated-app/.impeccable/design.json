@@ -1,0 +1,20 @@
+﻿{
+  "version": 1,
+  "platform": "react-native-expo",
+  "direction": "Calm, trustworthy, operational food-rescue product with forest greens, warm neutrals, restrained lime accent, and evidence-led imagery.",
+  "colors": {
+    "light": {
+      "background": "#F5F6F1", "surface": "#FFFFFF", "surfaceTint": "#EAF0E9",
+      "text": "#17211B", "muted": "#68746C", "primary": "#183D30", "accent": "#C5E994",
+      "border": "#DCE4DC", "success": "#226C4A", "warning": "#8B5522", "danger": "#9C4137"
+    },
+    "dark": {
+      "background": "#111713", "surface": "#1A211C", "surfaceTint": "#28362C",
+      "text": "#EDF3EC", "muted": "#A4B0A6", "primary": "#D0F0A5", "accent": "#C5E994",
+      "border": "#344137", "success": "#9CD9AF", "warning": "#F1C27B", "danger": "#FFB3A8"
+    }
+  },
+  "shape": { "spacing": [4, 8, 12, 16, 20, 24, 32], "cardRadius": 22, "controlRadius": 14 },
+  "motion": { "pressScale": 0.965, "style": "Short spring-based press feedback; brief staggered fade and slide on screen entry; respect reduced-motion preferences." },
+  "imagery": "Mostly Lucide icons. One editorial meal photo on role selection. Food proof photos must be camera captures tied to a batch."
+}

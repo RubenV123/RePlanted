@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+node_modules-repair-backup/
+package-lock-repair-backup.json
+.expo/
+dist/
